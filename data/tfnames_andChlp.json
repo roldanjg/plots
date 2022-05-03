@@ -1,0 +1,650 @@
+{
+    "tfs": [
+        {
+            "name": "ABF1",
+            "chlpname": ["2.ABF1-MEME"],
+            "family": "bZIP",
+            "dataBaseNames": [
+                "ABF1"
+            ],
+            "dataBaseSimilarsNames": [
+                "ABF4",
+                "ABF2",
+                "ABF3",
+                "PK18009.1"
+            ]
+        },
+        {
+            "name": "ABF3",
+            "chlpname": ["1.ABF3-MEME"],
+            "family": "bZIP",
+            "dataBaseNames": [
+                "ABF3"
+            ],
+            "dataBaseSimilarsNames": [
+                "ABF4",
+                "ABF2",
+                "ABF1",
+                "PK18009.1"
+            ]
+        },
+        {
+            "name": "ABF4",
+            "chlpname": ["1.ABF4-MEME"],
+            "family": "bZIP",
+            "dataBaseNames": [
+                "ABF4"
+            ],
+            "dataBaseSimilarsNames": [
+                "ABF1",
+                "ABF2",
+                "ABF3",
+                "PK18009.1"
+            ]
+        },
+        {
+            "name": "AIL6",
+            "chlpname": ["1.AIL6-MEME"],
+            "family": "AP2-ANT",
+            "dataBaseNames": [
+                "AIL6"
+            ],
+            "dataBaseSimilarsNames": [
+                "PLT1",
+                "AIL7",
+                "ANT"
+            ]
+        },
+        {
+            "name": "ANAC032",
+            "chlpname": ["MCACGTR-ANAC032-DREME"],
+            "family": "NAC/NAM",
+            "dataBaseNames": [],
+            "dataBaseSimilarsNames": [
+                "NAC002"
+            ]
+        },
+        {
+            "name": "ANAC055",
+            "chlpname": ["1.ANAC55.1MEME"],
+            "family": "NAC",
+            "dataBaseNames": [
+                "NAC055"
+            ],
+            "dataBaseSimilarsNames": [
+                "NAC019"
+            ]
+        },
+        {
+            "name": "ANAC102",
+            "chlpname": ["ACGTGB-ANAC102-DREME"],
+            "family": "NAC/NAM",
+            "dataBaseNames": [],
+            "dataBaseSimilarsNames": [
+                "NAC002"
+            ]
+        },
+        {
+            "name": "ANT",
+            "chlpname": ["2.ANT-MEME"],
+            "family": "AP2-ANT",
+            "dataBaseNames": [
+                "ANT"
+            ],
+            "dataBaseSimilarsNames": [
+                "PLT1",
+                "AIL7"
+            ]
+        },
+        {
+            "name": "ARR10",
+            "chlpname": ["AGATHYG-ARR10-4DREME"],
+            "family": "Myb/SANT",
+            "dataBaseNames": [
+                "ARR10"
+            ],
+            "dataBaseSimilarsNames": [
+                "ARR1"
+            ]
+        },
+        {
+            "name": "At5g04760",
+            "chlpname": ["ACGTGKV-At5g04760-DREME"],
+            "family": "Myb-related",
+            "dataBaseNames": [
+                "AT5G04760"
+            ],
+            "dataBaseSimilarsNames": []
+        },
+        {
+            "name": "ATH1",
+            "chlpname": ["AYATATA-ATH1-DREME3"],
+            "family": "Homeodomain",
+            "dataBaseNames": [],
+            "dataBaseSimilarsNames": [
+                "Q5EVH4_OIKDI"
+            ]
+        },
+        {
+            "name": "bHLH60",
+            "chlpname": ["CCACSK-bZIP60-1DREME"],
+            "family": "bHLH",
+            "dataBaseNames": [],
+            "dataBaseSimilarsNames": [
+                "BPE",
+                "bHLH74",
+                "bHLH78",
+                "bHLH49",
+                "bHLH77",
+                "BEE2",
+                "AT2G18300"
+            ]
+        },
+        {
+            "name": "bZIP68",
+            "chlpname": ["ACGTGKM-bZIP68.1DREME"],
+            "family": "bZIP",
+            "dataBaseNames": [
+                "BZIP68"
+            ],
+            "dataBaseSimilarsNames": [
+                "BZIP16",
+                "GBF1",
+                "PK23964.1"
+            ]
+        },
+        {
+            "name": "CBF1",
+            "chlpname": ["1.CBF1-MEME1"],
+            "family": "AP2-DREB",
+            "dataBaseNames": [
+                "DREB1B"
+            ],
+            "dataBaseSimilarsNames": [
+                "DREB1C",
+                "DREB1D",
+                "DREB1A"
+            ]
+        },
+        {
+            "name": "CBF2",
+            "chlpname": ["1.CBF2-MEME1"],
+            "family": "AP2-DREB",
+            "dataBaseNames": [
+                "DREB1C"
+            ],
+            "dataBaseSimilarsNames": [
+                "DREB1B",
+                "DREB1D",
+                "DREB1A"
+            ]
+        },
+        {
+            "name": "CBF3",
+            "chlpname": ["1.CBF3-MEME1"],
+            "family": "AP2-DREB",
+            "dataBaseNames": [
+                "DREB1A"
+            ],
+            "dataBaseSimilarsNames": [
+                "DREB1C",
+                "DREB1D",
+                "DREB1B"
+            ]
+        },
+        {
+            "name": "CCA1",
+            "chlpname": ["GATATTW-CCA1-DREME2"],
+            "family": "Myb-related",
+            "dataBaseNames": [
+                "CCA1"
+            ],
+            "dataBaseSimilarsNames": [
+                "LHY",
+                "RVE7",
+                "RVE1",
+                "RVE7L",
+                "PK08316.1"
+            ]
+        },
+        {
+            "name": "DREB2A",
+            "chlpname": ["2.DREB2A-MEME"],
+            "family": "ERF-DREB",
+            "dataBaseNames": [
+                "DREB2A"
+            ],
+            "dataBaseSimilarsNames": []
+        },
+        {
+            "name": "FBH3",
+            "chlpname": ["2.FBH3-MEME"],
+            "family": "bHLHG",
+            "dataBaseNames": [
+                "BHLH122"
+            ],
+            "dataBaseSimilarsNames": []
+        },
+        {
+            "name": "FD-bZIP14",
+            "chlpname": ["1.FD-MEME"],
+            "family": "bZIP",
+            "dataBaseNames": [],
+            "dataBaseSimilarsNames": [
+                "DPBF3"
+            ]
+        },
+        {
+            "name": "FDP-bZIP27",
+            "chlpname": ["1.FDP-MEME"],
+            "family": "bZIP",
+            "dataBaseNames": [],
+            "dataBaseSimilarsNames": [
+                "DPBF3"
+            ]
+        },
+        {
+            "name": "FHY3",
+            "chlpname": [""],
+            "family": "FAR1",
+            "dataBaseNames": [
+                "FHY3"
+            ],
+            "dataBaseSimilarsNames": [
+                "FAR1"
+            ]
+        },
+        {
+            "name": "GBF2",
+            "chlpname": ["GBF2-MEME"],
+            "family": "bZIP",
+            "dataBaseNames": [
+                "GBF2"
+            ],
+            "dataBaseSimilarsNames": [
+                "GBF3",
+                "GBF1",
+                "BZIP68",
+                "BZIP16"
+            ]
+        },
+        {
+            "name": "GBF3",
+            "chlpname": ["1.GBF3-MEME1"],
+            "family": "bZIP",
+            "dataBaseNames": [
+                "GBF3"
+            ],
+            "dataBaseSimilarsNames": [
+                "GBF2",
+                "GBF1"
+            ]
+        },
+        {
+            "name": "GNC1",
+            "chlpname": [""],
+            "family": "GATA",
+            "dataBaseNames": [],
+            "dataBaseSimilarsNames": []
+        },
+        {
+            "name": "GNL",
+            "chlpname": [""],
+            "family": "GATA",
+            "dataBaseNames": [],
+            "dataBaseSimilarsNames": []
+        },
+        {
+            "name": "HAT22",
+            "chlpname": ["ATVATTGHAT22-DREME2"],
+            "family": "HD-Zip",
+            "dataBaseNames": [
+                "HAT22"
+            ],
+            "dataBaseSimilarsNames": [
+                "HAT2",
+                "HAT1",
+                "ATHB-X",
+                "ATHB-4",
+                "HAT3"
+            ]
+        },
+        {
+            "name": "HB5",
+            "chlpname": ["ATNATTG-HB5-DREME"],
+            "family": "HD-Zip",
+            "dataBaseNames": [
+                "HB-5"
+            ],
+            "dataBaseSimilarsNames": [
+                "ATHB-12",
+                "ATHB-22",
+                "ATHB-6",
+                "ATHB-13",
+                "ATHB-16",
+                "ATHB-21",
+                "ATHB-53",
+                "ATHB-20",
+                "HAT5"
+            ]
+        },
+        {
+            "name": "HB6",
+            "chlpname": ["AATVATTG-HB6-DREME"],
+            "family": "HD-Zip",
+            "dataBaseNames": [
+                "ATHB-6"
+            ],
+            "dataBaseSimilarsNames": [
+                "ATHB-12",
+                "ATHB-5",
+                "ATHB-13",
+                "ATHB-16",
+                "ATHB-21",
+                "ATHB-53",
+                "ATHB-20",
+                "HAT5",
+                "HB-5"
+            ]
+        },
+        {
+            "name": "HB7",
+            "chlpname": ["ATBATTG-HB7-DREME"],
+            "family": "HD-Zip",
+            "dataBaseNames": [
+                "ATHB-7"
+            ],
+            "dataBaseSimilarsNames": [
+                "ATHB-12",
+                "ATHB-5",
+                "ATHB-13"
+            ]
+        },
+        {
+            "name": "HSF6A",
+            "chlpname": ["2.HSF6A-MEME"],
+            "family": "HSF",
+            "dataBaseNames": [
+                "HSFA1A"
+            ],
+            "dataBaseSimilarsNames": [
+                "HSFA1E",
+                "HSFA6B",
+                "HSFA1B",
+                "HSFA4A",
+                "HSFB4",
+                "HSFB2A",
+                "HSF2B",
+                "HSFC1",
+                "HSFB3"
+            ]
+        },
+        {
+            "name": "HSF1b-HS",
+            "chlpname": ["1.HSF1b-HS"],
+            "family": "HSF",
+            "dataBaseNames": [
+                "HSFA1B"
+            ],
+            "dataBaseSimilarsNames": [
+                "HSFA1E",
+                "HSFA6B",
+                "HSFA6A",
+                "HSFA4A",
+                "HSFB4",
+                "HSFB2A",
+                "HSF2B",
+                "HSFC1",
+                "HSFB3"
+            ]
+        },
+        {
+            "name": "HSF1b-NS",
+            "chlpname": ["1.HSF1b-NS"],
+            "family": "HSF",
+            "dataBaseNames": [
+                "HSFA1B"
+            ],
+            "dataBaseSimilarsNames": [
+                "HSFA1E",
+                "HSFA6B",
+                "HSFA6A",
+                "HSFA4A",
+                "HSFB4",
+                "HSFB2A",
+                "HSF2B",
+                "HSFC1",
+                "HSFB3"
+            ]
+        },
+        {
+            "name": "MYB3",
+            "chlpname": ["2.MYB3-MEME"],
+            "family": "MYB R2R3",
+            "dataBaseNames": [
+                "MYB3"
+            ],
+            "dataBaseSimilarsNames": [
+                "MYB4",
+                "MYB51"
+            ]
+        },
+        {
+            "name": "MYB44",
+            "chlpname": ["ASCMAC-MYB44-DREME"],
+            "family": "MYB R2R3",
+            "dataBaseNames": [
+                "MYB44"
+            ],
+            "dataBaseSimilarsNames": [
+                "MYB77",
+                "MYB70",
+                "MYB73"
+            ]
+        },
+        {
+            "name": "MYC2",
+            "chlpname": ["1-MYC2-1MEME"],
+            "family": "bHLH",
+            "dataBaseNames": [
+                "MYC2"
+            ],
+            "dataBaseSimilarsNames": [
+                "MYC3",
+                "MYC4",
+                "PK18474.1",
+                "BHLH13",
+                "BHLH14",
+                "PK09702.1",
+                "AT2G22750"
+            ]
+        },
+        {
+            "name": "MYC3",
+            "chlpname": ["1-MYC3-1MEME"],
+            "family": "bHLH",
+            "dataBaseNames": [
+                "MYC3"
+            ],
+            "dataBaseSimilarsNames": [
+                "MYC2",
+                "MYC4",
+                "PK18474.1",
+                "BHLH13",
+                "BHLH14",
+                "PK09702.1",
+                "AT2G22750"
+            ]
+        },
+        {
+            "name": "PIF1",
+            "chlpname": ["1.PIF1.MEME1"],
+            "family": "bHLH",
+            "dataBaseNames": [
+                "PIF1"
+            ],
+            "dataBaseSimilarsNames": [
+                "PIF3",
+                "PIF4",
+                "PIF5",
+                "PK05451.1"
+            ]
+        },
+        {
+            "name": "PIF3",
+            "chlpname": ["1.PIF3.MEME"],
+            "family": "bHLH",
+            "dataBaseNames": [
+                "PIF3"
+            ],
+            "dataBaseSimilarsNames": [
+                "PIF1",
+                "PIF4",
+                "PIF5"
+            ]
+        },
+        {
+            "name": "PIF4",
+            "chlpname": ["1.PIF4.MEME"],
+            "family": "bHLH",
+            "dataBaseNames": [
+                "PIF4"
+            ],
+            "dataBaseSimilarsNames": [
+                "PIF1",
+                "PIF3",
+                "PIF5",
+                "PK05451.1"
+            ]
+        },
+        {
+            "name": "PIF5",
+            "chlpname": ["1.PIF5"],
+            "family": "bHLH",
+            "dataBaseNames": [
+                "PIF5"
+            ],
+            "dataBaseSimilarsNames": [
+                "PIF1",
+                "PIF3",
+                "PIF4",
+                "PK05451.1"
+            ]
+        },
+        {
+            "name": "RD26",
+            "chlpname": ["BACGTG-RD26-DREME"],
+            "family": "NAC/NAM",
+            "dataBaseNames": [],
+            "dataBaseSimilarsNames": [
+                "NAC055",
+                "NAC019"
+            ]
+        },
+        {
+            "name": "REV",
+            "chlpname": ["ATVATK-REV-DREME2"],
+            "family": "HD-ZIP",
+            "dataBaseNames": [],
+            "dataBaseSimilarsNames": [
+                "ATHB-9",
+                "ATHB-15"
+            ]
+        },
+        {
+            "name": "SPL7",
+            "chlpname": ["BCTTCTY-SPL7-1DREME"],
+            "family": "SBP",
+            "dataBaseNames": [
+                "SPL7"
+            ],
+            "dataBaseSimilarsNames": [
+                "SPL14",
+                "SPL1",
+                "SPL3",
+                "SPL4",
+                "SPL5",
+                "SPL7",
+                "SPL8",
+                "SPL9",
+                "SPL11",
+                "SPL12",
+                "SPL10",
+                "SPL14",
+                "SPL15",
+                "AT1G76580",
+                "SPL13A"
+            ]
+        },
+        {
+            "name": "TCP4",
+            "chlpname": ["MACCR-TCP4-1DREME"],
+            "family": "TCP",
+            "dataBaseNames": [
+                "TCP4"
+            ],
+            "dataBaseSimilarsNames": [
+                "TCP3",
+                "TCP2",
+                "TCP5",
+                "TCP13"
+            ]
+        },
+        {
+            "name": "URI",
+            "chlpname": ["2.URI.MEME2"],
+            "family": "bHLH",
+            "dataBaseNames": [],
+            "dataBaseSimilarsNames": [
+                "PK18401.1"
+            ]
+        },
+        {
+            "name": "WRKY33",
+            "chlpname": ["1.WRKY33.1MEME"],
+            "family": "WRKY",
+            "dataBaseNames": [
+                "WRKY33"
+            ],
+            "dataBaseSimilarsNames": [
+                "WRKY26",
+                "WRKY20",
+                "WRKY25",
+                "WRKY2",
+                "WRKY3",
+                "ZAP1",
+                "PK05432.1"
+            ]
+        },
+        {
+            "name": "ZAT10",
+            "chlpname": ["ACGTGKV-ZAT6-DREME"],
+            "family": "C2H2",
+            "dataBaseNames": [
+                "ZAT10"
+            ],
+            "dataBaseSimilarsNames": [
+                "ZAT6",
+                "ZAT1",
+                "ZAT2",
+                "ZAT9",
+                "ZAT4"
+            ]
+        },
+        {
+            "name": "ZAT6",
+            "chlpname": [""],
+            "family": "C2H2",
+            "dataBaseNames": [
+                "ZAT6"
+            ],
+            "dataBaseSimilarsNames": [
+                "ZAT10",
+                "ZAT1",
+                "ZAT2",
+                "AZF2",
+                "ZAT4"
+            ]
+        }
+    ]
+}
